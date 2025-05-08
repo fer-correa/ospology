@@ -50,7 +50,7 @@ Como exemplo, o diagrama a seguir ilustra os diferentes atores em um OSPO orient
 <img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
 
 Imagem do Fernando
-<img width="908" alt="img2" src="https://github.com/user-attachments/assets/d3ff6d85-8ef5-4f84-9369-0bd627f19874">
+<img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/441439589-bcfc1d64-67c7-48fb-af70-21a1f20228b8.png">
 
 
 ### História
