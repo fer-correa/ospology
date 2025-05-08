@@ -49,6 +49,10 @@ Como exemplo, o diagrama a seguir ilustra os diferentes atores em um OSPO orient
 
 <img width="908" alt="img2" src="https://user-images.githubusercontent.com/43671777/224132683-6a2abdff-c846-4db3-b642-c2e32b5734fb.png">
 
+Imagem do Fernando
+<img width="908" alt="img2" src="https://github.com/user-attachments/assets/d3ff6d85-8ef5-4f84-9369-0bd627f19874">
+
+
 ### História
 
 No passado, o desenvolvimento colaborativo de software open source era adotado principalmente por pequenos grupos de desenvolvedores e entusiastas, havendo pouca necessidade de unidades organizacionais dedicadas para gerenciar atividades open source. Porém, à medida que esse método se tornou mais difundido e crítico para a operação de muitas organizações, a necessidade de OSPOs dedicados se tornou mais evidente.
